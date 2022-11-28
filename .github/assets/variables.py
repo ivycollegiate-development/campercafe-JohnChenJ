@@ -5,13 +5,15 @@ c = "Hello!"
 d = True
 e = None
 
-'''
-a: an integer
-b: a decimal number(floating point)
-c: string or character(s)
-d: bool(True or false)
-e: NoneType
-'''
+
+#a: an integer
+#b: a decimal number(floating point)
+#c: string or character(s)
+#d: bool(True or false)
+#e: NoneType
+
+#Reason no button run this file
+#
 
 name = input("Put Your Name Here: ")
 print ("Hello, " + name)
