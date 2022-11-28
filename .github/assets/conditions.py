@@ -10,4 +10,10 @@ else:
 #Anyway, put tab to organize your code
 '''
 To fix this, specify input as int
+If you satisfy the first condition, it will not care about elif or else
+The program will always consider the earilest condition satisfied
+
+For example, if second elif condition is satisfied, third, fourth, or the 100th elif..., else will not be cared
+
+In Java, you have to put: int a = 69;
 '''
