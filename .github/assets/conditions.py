@@ -16,4 +16,12 @@ The program will always consider the earilest condition satisfied
 For example, if second elif condition is satisfied, third, fourth, or the 100th elif..., else will not be cared
 
 In Java, you have to put: int a = 69;
+
+
+
+In github, ONLY CREATOR can MERGE BRANCH
+Other will submit codes by pull request(To separate everyone's branch from each other)
+
+If you approve their request, you can merge your branch with their requested branch.
+You can also check their mistake from their request.
 '''
