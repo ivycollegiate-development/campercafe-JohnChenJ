@@ -2,7 +2,8 @@
 '''
 List's value can be changed, but ARRAY's VALUE CANNOT BE CHANGED.
 '''
-names = {"Harry", "Ron", "Hermione"}
+names = ["Harry", "Ron", "Hermione"]
+#IMPORTANT!list use [], {} is for class!
 print(names)
 print(names[0])
 
@@ -10,10 +11,10 @@ print(names[0])
 #Append means: Add to(The VERY END, VERY LAST ONE)
 '''
 This will add Drace to {"Harry", "Ron", "Hermione"}
-so it become {"Harry", "Ron", "Hermione","Drace}
+so it become {"Harry", "Ron", "Hermione","Draco}
 '''
 
-names.append("Drace")
+names.append("Draco")
 
 #How to sort the list
 names.sort()
