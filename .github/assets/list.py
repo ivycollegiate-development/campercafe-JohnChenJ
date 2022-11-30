@@ -21,3 +21,6 @@ names.sort()
 
 #How to print the updated list
 print(names)
+'''
+As you can see, 'sort' sort names based on Ascii code.
+'''
