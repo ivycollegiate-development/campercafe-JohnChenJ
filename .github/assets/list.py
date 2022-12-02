@@ -14,7 +14,7 @@ names.append("Draco")
 #Append means: Add to(The VERY END, VERY LAST ONE)
 '''
 This will add Drace to {"Harry", "Ron", "Hermione"}
-so it become {"Harry", "Ron", "Hermione","Draco}
+so it become {"Harry", "Ron", "Hermione","Draco"}
 '''
 
 #How to sort the list
