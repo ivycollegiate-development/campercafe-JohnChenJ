@@ -23,9 +23,14 @@ So as a result, it will only print {1, 2 ,3 ,4}
 print(s)
 
 s.remove(2)
-
 #What will happen?
 print(s)
 #It will remove that specific number
 
+s.remove(1)
+#This time it removed one
+print(s)
 #Weakness of user interface: Do thing for you automatically
+#f is for format, ALWAYS IMPORTANT when you need to do len, d...
+#len help you find the size of s, like s.length in java
+print(f"The set has {len(s)} elements")
